@@ -1,11 +1,12 @@
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Forbidden Fruit - A Neural Network Experiment 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Forbidden Fruit - A Neural Network Experiment
 
-![](http://placekitten.com/200/300)
+<img title="" src="img/forbidden_learning.png" alt="" width="328">
 
 **Goals:**
 
 * Learn about Neural Networks.
 * Develop a game where you answer questions by holding the objects (fruits) into the camera.
+* Be at least a little creative about hints. 
 
 **Tech:**
 
@@ -14,9 +15,9 @@
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Edge Detector 2000 - A Comparison of Edge Detection Algorithms 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Edge Detector 2000 - A Comparison of Edge Detection Algorithms
 
-![](http://placekitten.com/200/301)
+<img src="img/kantendetektor.png" title="" alt="" width="268">
 
 **Goal:**
 
@@ -32,9 +33,9 @@ ___
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> [map.drehmal.cyou](https://map.drehmal.cyou/) - A Map for a Minecraft World 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> [map.drehmal.cyou](https://map.drehmal.cyou/) - A Map for a Minecraft World
 
-No picture here, look at it online!
+*No picture here, look at it online!*
 
 **Goal:**
 
@@ -56,9 +57,9 @@ No picture here, look at it online!
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> POIGen - A temporary(?) workaround for map generation 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> POIGen - A temporary(?) workaround for map generation
 
-Once again no picture, but this time because it is a console application. However, you can check it out at <https://github.com/Zottelchen/poigen>
+*Once again no picture, but this time because it is a console application. However, you can check it out at <https://github.com/Zottelchen/poigen>!*
 
 **Goal:**
 
@@ -71,9 +72,9 @@ Once again no picture, but this time because it is a console application. Howeve
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> ESO Soundboard 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> ESO Soundboard
 
-![](http://placekitten.com/200/303)
+<img src="img/eso_soundboard.png" title="" alt="" width="419">
 
 **Goals:**
 
@@ -84,15 +85,15 @@ ___
 
 * EsoExtractData/FFmpeg - Luckily, there is already a pretty good data mining tool for ESO. It even offers to convert the audio files into OGG. Sadly, something is off about these OGG files. So, let's use FFmpeg to convert OGG to OGG. Now it works. ✨Magic✨
 * Python -  Sadly, there was no direct link between those audio files and the corresponding subtitles from the language file. Because I don't want to label that many files by hand, I decided to use voice recognition (vosk). And then I fuzzymatched whatever was detected with strings from the language file. It worked surprisingly well.
-* Hetzner Cloud Servers - Once again, great for running projects for a couple of days. On day 2 I've realized, I should have added some sort of checkpoint into my script. Oh, well, it finished after 10 days, spitting out a single 100 MB JSON file. It was not as fast as it could have been, but the script was like 20 clean lines, and I wasn't rushing.
+* Hetzner Cloud Servers - Once again, great for running projects for a couple of days. On day 2 I've realized, I should have added some sort of checkpoint into my script. Or used a small database. Oh, well, it finished after 10 days, spitting out a single 100 MB JSON file. It was not as fast as it could have been, but the script was like 20 lines, and I was not in a rush.
 * Cloudflare Pages / B2 - Instead of working with redirects to a public bucket on B2 Cloudflare, this version uses a worker to fetch the content from a private bucket. (R2 did not exist at this point.)
 * HTML/JavaScript - I wrote a small web client to search through the "database", download and play the audio files. But for obvious reasons not public. This thing is completely static (except for the B2-fetching), there is no database which smartly queries. There is you and your PC and there is a pruned 14 MB JSON file. It is not the pinnacle of performance, but it works.
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30"/> Moneyshot Arcade 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30"/> Moneyshot Arcade
 
-![](http://placekitten.com/200/304)
+<img src="img/arcade1.jpg" title="" alt="" width="640">
 
 **Goal:**
 
@@ -103,13 +104,14 @@ ___
 * Godot - I have a heart for open-source software, and this game engine is fantastic.
 * Tiled - At that point, the Godot level editor wasn't great, especially when working with multiple layers. It has improved a lot since  then, though!
 * Aseprite - I have learned, that I am not great at drawing stuff, but you have to agree, this is fine art and should be shown in the museum of modern arts:
-![](http://placekitten.com/200/305)
+  
+<img title="" src="img/arcade2.png" alt="" data-align="center" width="608">
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30"/> Dreams
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30"/> Lucid
 
-![](http://placekitten.com/300/300)
+<img src="img/lucid.png" title="" alt="" width="634">
 
 **Goal:**
 
@@ -121,9 +123,9 @@ ___
 
 ___
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Self-hosting stuff 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Self-hosting stuff
 
-Sorry, no images either. But if you are curious which server I crashed today, feel free to take a look at my status page: <https://status.gpu.cx/>
+*Sorry, no images either. But if you are curious which server I crashed today, feel free to take a look at my status page: <https://status.gpu.cx>*
 
 **Goals:**
 
@@ -142,4 +144,7 @@ Sorry, no images either. But if you are curious which server I crashed today, fe
 **Plans:**
 
 * Better monitoring with Grafana, Prometheus & Loki. Netdata does not feel right.
+
 * Kubernetes.
+
+* Get rid of Cloudflare at some point.
