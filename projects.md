@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Forbidden Fruit - A Neural Network Experiment
 
-<img title="" src="img/forbidden_learning.png" alt="" width="328">
+<img title="" src="https://raw.githubusercontent.com/Zottelchen/Zottelchen/main/img/forbidden_learning.png" alt="" width="328">
 
 **Goals:**
 
@@ -17,7 +17,7 @@ ___
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Edge Detector 2000 - A Comparison of Edge Detection Algorithms
 
-<img src="img/kantendetektor.png" title="" alt="" width="268">
+<img src="https://raw.githubusercontent.com/Zottelchen/Zottelchen/main/img/kantendetektor.png" title="" alt="" width="268">
 
 **Goal:**
 
@@ -74,7 +74,7 @@ ___
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> ESO Soundboard
 
-<img src="img/eso_soundboard.png" title="" alt="" width="419">
+<img src="https://raw.githubusercontent.com/Zottelchen/Zottelchen/main/img/eso_soundboard.png" title="" alt="" width="419">
 
 **Goals:**
 
@@ -93,7 +93,7 @@ ___
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30"/> Moneyshot Arcade
 
-<img src="img/arcade1.jpg" title="" alt="" width="640">
+<img src="https://raw.githubusercontent.com/Zottelchen/Zottelchen/main/img/arcade1.jpg" title="" alt="" width="640">
 
 **Goal:**
 
@@ -105,13 +105,13 @@ ___
 * Tiled - At that point, the Godot level editor wasn't great, especially when working with multiple layers. It has improved a lot since  then, though!
 * Aseprite - I have learned, that I am not great at drawing stuff, but you have to agree, this is fine art and should be shown in the museum of modern arts:
   
-<img title="" src="img/arcade2.png" alt="" data-align="center" width="608">
+<img title="" src="https://raw.githubusercontent.com/Zottelchen/Zottelchen/main/img/arcade2.png" alt="" data-align="center" width="608">
 
 ___
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="30"/> Lucid
 
-<img src="img/lucid.png" title="" alt="" width="634">
+<img src="https://raw.githubusercontent.com/Zottelchen/Zottelchen/main/img/lucid.png" title="" alt="" width="634">
 
 **Goal:**
 
