@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Julius also known as @Zottelchen.
 - 👀 I’m interested in open source & self hosted applications. Trying to reduce certain companies impact on the internet, at least for myself.
-- 🌱 I’m currently learning math, apparently. Passed that though so time for a new adventure. Maybe Rust. Or Kubernetes.
+- 🌱 I’m currently writing my bachelor thesis. Also looking for a new adventure. Maybe Rust. Or Kubernetes.
 - 📫 How to reach me: Shoot me a message on Discord (`zottelchen` there as well) (This section will be extended... as soon as I get around to setup a XMPP server. Or Matrix? Or an IRC bouncer? Not sure yet, but something else is coming.)
 
 
